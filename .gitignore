@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RooksTech/bin
+/RooksTech/obj/Debug
+/RooksTech/obj/Release
+/packages
+/.vs
